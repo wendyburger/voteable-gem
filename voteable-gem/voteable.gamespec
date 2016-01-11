@@ -1,0 +1,11 @@
+Gem::Specification.new do |s|
+  s.name = 'voteable_wendy_jan'
+  s.version = '0.0.0'
+  s.date = '2016-01-11'
+  s.summary = 'A voting gem'
+  s.description = 'The best voting gem ever.'
+  s.authors = ['Wendy']
+  s.email = 'wen1123wen@gmail.com'
+  s.files = ['lib/voteable_wendy_jan.rb']
+  s.homepage = 'http://github.com'
+end
